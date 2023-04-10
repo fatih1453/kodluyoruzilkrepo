@@ -7,3 +7,14 @@ README dosyasi, bir adet de index.html barindiryor.
 ```
 git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 ```
+## Usage
+Projeyi cloneladiktan sonra Visual Studio Code programinda açiniz.
+Linux için:
+```
+cd kodluyoruzilkrepo
+code .
+```
+## Contributing
+Pull requestler kabul edilir. Büyük degisiklikler için, lütfen önce neyi degistirmek istediginizi tartismak için bir konu açiniz.
+## License
+[MIT](https://github.com/fatih1453/kodluyoruzilkrepo/LICENSE)
