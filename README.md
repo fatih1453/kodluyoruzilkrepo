@@ -18,4 +18,4 @@ code .
 ## Contributing
 Pull requestler kabul edilir. Büyük degisiklikler için, lütfen önce neyi degistirmek istediginizi tartismak için bir konu açiniz.
 ## License
-[MIT](https://github.com/fatih1453/kodluyoruzilkrepo/LICENSE)
+[MIT](https://github.com/fatih1453/kodluyoruzilkrepo/blob/main/LICENSE)
