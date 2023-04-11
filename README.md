@@ -4,7 +4,7 @@ README dosyasi, bir adet de index.html barindiryor.
 
 ![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 ## Installation
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.
 ```
 git clone https://github.com/fatih1453/kodluyoruzilkrepo.git
 ```
